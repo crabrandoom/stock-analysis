@@ -13,6 +13,7 @@ In 2017 there was a positive gain for all tickers except for TERP. In 2018 there
 ![2018 Results.PNG](https://github.com/crabrandoom/stock-analysis/blob/main/2018%20results.PNG)
 
 Once the code was refactored there was about a .02 Second decrease in overall processing time as compared to the original code. Changes that were made to increase the efficiency of this code inlcuded an extra variable to index the Ticker reference in each loop as seen below in the code.
+
 ![Code Reference.PNG](https://github.com/crabrandoom/stock-analysis/blob/main/Code%20Reference.PNG)
 
 ### Refactored code speeds
