@@ -1,7 +1,7 @@
 # Stock-analysis
 
 ## Overview of Project
-The purpose of this project was to performe analysis on Stocks using VBA and Macros to automate and reduce errors in the calculations. The code was then refactored in order to improve calculation speeds.
+The purpose of this project was to perform analysis on various tickers on the Stock Market in the years 2017 and 2018 using VBA and Macros to automate and reduce errors in the calculations. The code was then refactored in order to improve calculation speeds.
 
 ## Results
 
